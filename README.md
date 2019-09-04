@@ -1,7 +1,8 @@
 # infra-crwd-surveymky 2.0
 1.0) Author: `Xiaojun (Uie) Yao` | Edit time: 2019-07-10
 
-2.0) Author: `Stanley (Zhehui) Yuan``Jiayu (Jerry) Lin` | Edit time: 2019-08-13
+2.0) Author: `Stanley (Zhehui) Yuan` `Jiayu (Jerry) Lin` | Edit time: 2019-08-13
+## Data
 
 #### automation packages: `surveymonkey_send.py`,`surveymonkey_receive.py`
 
