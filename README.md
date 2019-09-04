@@ -2,6 +2,11 @@
 1.0) Author: `Xiaojun (Uie) Yao` | Edit time: 2019-07-10
 
 2.0) Author: `Stanley (Zhehui) Yuan` `Jiayu (Jerry) Lin` | Edit time: 2019-08-13
+## Introduction
+This project automatically find missing value in the target data frame and generate survey composed of open ended questions send to the target'company's email. Once they filled out the survey, we query the answer from the Survey Monkey Api. We evaluate the quality of the answers; we collect those answer left in blank, those out of bounds, those apparently answered without logic. We resend the survey to the company to do the further query. 
+We also create heat map to visualiza
+
+
 ## Data
 
 #### automation packages: `surveymonkey_send.py`,`surveymonkey_receive.py`
